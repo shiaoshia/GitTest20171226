@@ -8,5 +8,6 @@ class Ex1{
 		System.out.println("快速修正ok啦");
 >>>>>>> QuickFix
 		System.out.println("合併檔");
+		System.out.println("合併");
 	}
 }
